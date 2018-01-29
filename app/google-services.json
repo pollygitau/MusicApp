@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225560553212",
+    "firebase_url": "https://music-app-e4f38.firebaseio.com",
+    "project_id": "music-app-e4f38",
+    "storage_bucket": "music-app-e4f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225560553212:android:04b347a4f0ce58e3",
+        "android_client_info": {
+          "package_name": "com.blaire.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225560553212-567sg951klccpmb3nkib1gbki723vnvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blaire.musicapp",
+            "certificate_hash": "b4e4d160fef9cafcc487c4f03890395991d81da6"
+          }
+        },
+        {
+          "client_id": "225560553212-s1dt0q82me2d2sqkeav70r5jr1aueitf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP82A1FT1b_Dcak-C0rgAKhUPRgsH_9Ck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225560553212-s1dt0q82me2d2sqkeav70r5jr1aueitf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
